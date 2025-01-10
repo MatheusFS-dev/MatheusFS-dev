@@ -13,30 +13,52 @@
 
 ---
 
-## 📈 Statistics
+### ⚙️ GitHub Analytics
 
-![Code Time](http://img.shields.io/badge/Code%20Time-I%20don't%20even%20know%20anymore-blue)
+<table>
+  <tr>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api?username=MatheusFS-dev&theme=dark&hide_border=false&include_all_commits=true"
+        alt="Github Stats"
+      />
+    </td>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusFS-dev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+        alt="Github Stats"
+      />
+    </td>
+  </tr>
+</table>
 
-**I'm a Daytime Person 🌞**
+--- 
 
-```text
-🌞 Morning                ██████████░░░░░░░░░░░░░░░░   35%
-🌆 Daytime                ██████████████░░░░░░░░░░░░   55%
-🌃 Evening                ██░░░░░░░░░░░░░░░░░░░░░░░░   10%
-🌙 Night                  ░░░░░░░░░░░░░░░░░░░░░░░░░░   0%
-```
+### 🏆 GitHub Profile Trophy
 
-📊 **I usually Spent My Time On**
-
-```text
-🕑 Time Zone: America/Sao_Paulo
-```
-
-```text
-Python                   █████████████░░░░░░░░░░░░░   60%
-Studying                 █████░░░░░░░░░░░░░░░░░░░░░   29.7%
-Volleyball               ██░░░░░░░░░░░░░░░░░░░░░░░   10%
-C++                      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.3%
-```
+<p align="center">
+  <a
+    href="https://github.com/ryo-ma/github-profile-trophy"
+    title="repositório de troféus"
+  >
+    <img
+      width="800"
+      src="https://github-profile-trophy.vercel.app/?username=MatheusFS-dev&column=8&theme=darkhub&no-frame=true&no-bg=true"
+    />
+  </a>
+</p>
 
 ---
+
+<div align="center">
+  <h3><b>📍 Profile Visitor Count</b></h3>
+</div>
+
+<p align="center">
+  <img
+    src="https://profile-counter.glitch.me/MatheusFS-dev/count.svg"
+    alt="Número de visitantes no perfil"
+  />
+</p>
