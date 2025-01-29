@@ -6,11 +6,9 @@
     <img src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&weight=600&pause=1000&color=007FFF&center=true&vCenter=true&width=435&lines=👨‍💻+Developer+and+Researcher" alt="Typing SVG"/>
 </div>
 
-
-
 - 🔭 I’m currently working on **Machine Learning** projects
 
-- 📡 Telecommunications Engineering Student and Researcher
+- 📡 Telecommunications Engineering Student
 
 - 🌐 All of my projects are available at [https://github.com/MatheusFS-dev/](https://github.com/MatheusFS-dev/)
 
