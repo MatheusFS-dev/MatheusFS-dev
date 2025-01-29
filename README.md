@@ -18,18 +18,22 @@
 
 ### ⚙️ GitHub Analytics
 
-<div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
+<div align="center">
+  <h2>Stats</h2>
   <img
     src="https://github-readme-stats.vercel.app/api?username=MatheusFS-dev&theme=dark&hide_border=true&include_all_commits=true"
     alt="Github Stats"
+    style="margin-bottom: 20px;"
   />
+  
+  <h2>Top Languages</h2>
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusFS-dev&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact"
     alt="Top Languages"
+    style="margin-bottom: 20px;"
   />
-</div>
-
-<p align="center">
+  
+  <h2>Trophies</h2>
   <a
     href="https://github.com/ryo-ma/github-profile-trophy"
     title="repositório de troféus"
@@ -37,9 +41,10 @@
     <img
       width="800"
       src="https://github-profile-trophy.vercel.app/?username=MatheusFS-dev&column=8&theme=darkhub&no-frame=true&no-bg=true"
+      alt="GitHub Trophies"
     />
   </a>
-</p>
+</div>
 
 ---
 
