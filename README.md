@@ -18,24 +18,18 @@
 
 ### ⚙️ GitHub Analytics
 
-<table>
-  <tr>
-    <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api?username=MatheusFS-dev&theme=dark&hide_border=false&include_all_commits=true"
-        alt="Github Stats"
-      />
-    </td>
-    <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusFS-dev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-        alt="Github Stats"
-      />
-    </td>
-  </tr>
-</table>
+<div>
+  <img
+    align="left"
+    src="https://github-readme-stats.vercel.app/api?username=MatheusFS-dev&theme=dark&hide_border=false&include_all_commits=true"
+    alt="Github Stats"
+  />
+  <img
+    align="left"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusFS-dev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+    alt="Github Stats"
+  />
+</div>
 
 <p align="center">
   <a
