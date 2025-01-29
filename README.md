@@ -37,10 +37,6 @@
   </tr>
 </table>
 
---- 
-
-### 🏆 GitHub Profile Trophy
-
 <p align="center">
   <a
     href="https://github.com/ryo-ma/github-profile-trophy"
