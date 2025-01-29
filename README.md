@@ -1,13 +1,18 @@
 
 ![header](https://capsule-render.vercel.app/api?height=190&type=waving&color=6272a4&section=header&text=Hi%20👋,%20I'm%20Matheus%20Ferreira%20Silva&fontColor=f8f8f2&fontSize=40)
 
-<h2 align="center">A passionate Software Developer from Brazil</h2>
+
+<div align="center" style="margin: -10px 0; margin-top: -45px">
+    <img src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&weight=600&pause=1000&color=007FFF&center=true&vCenter=true&width=435&lines=👨‍💻+Developer+and+Researcher" alt="Typing SVG"/>
+</div>
+
+
 
 - 🔭 I’m currently working on **Machine Learning** projects
 
-- ⚡ Fun fact: **I am a Telecommunications Engineering Student and Researcher**
+- 📡 Telecommunications Engineering Student and Researcher
 
-- 👨‍💻 All of my projects are available at [https://github.com/MatheusFS-dev/](https://github.com/MatheusFS-dev/)
+- 🌐 All of my projects are available at [https://github.com/MatheusFS-dev/](https://github.com/MatheusFS-dev/)
 
 - 📫 How to reach me: **[my e-mail](mailto:matheusferreiravga@gmail.com?subject=Hello%20from%20GitHub!)** or through [LinkedIn](https://www.linkedin.com/in/matheus-ferreira-silva/)
 
@@ -52,13 +57,3 @@
 
 ---
 
-<div align="center">
-  <h3><b>📍 Profile Visitor Count</b></h3>
-</div>
-
-<p align="center">
-  <img
-    src="https://profile-counter.glitch.me/MatheusFS-dev/count.svg"
-    alt="Número de visitantes no perfil"
-  />
-</p>
