@@ -18,18 +18,17 @@
 
 ### ⚙️ GitHub Analytics
 
-<div>
+<div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
   <img
-    align="left"
-    src="https://github-readme-stats.vercel.app/api?username=MatheusFS-dev&theme=dark&hide_border=false&include_all_commits=true"
+    src="https://github-readme-stats.vercel.app/api?username=MatheusFS-dev&theme=dark&hide_border=true&include_all_commits=true"
     alt="Github Stats"
   />
   <img
-    align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusFS-dev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-    alt="Github Stats"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusFS-dev&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact"
+    alt="Top Languages"
   />
 </div>
+
 
 <p align="center">
   <a
