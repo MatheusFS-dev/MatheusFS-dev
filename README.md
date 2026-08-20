@@ -19,6 +19,19 @@
 
 ---
 
+### Contributions calendar
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/MatheusFS-dev/MatheusFS-dev/main/metrics.plugin.isocalendar.fullyear.svg"
+    alt="MatheusFS-dev contribution calendar"
+    width="100%"
+  />
+</p>
+
+
+---
+
 ### 📄 Published Papers
 
 - Check my [LinkedIn](https://www.linkedin.com/in/matheus-ferreira-silva/) 
